@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Hello, I am <a href="https://sebasma24.github.io/portfolio/">Sebastian Martinez</a>, a <b>Software Developer</b> from <b>Bogota, Colombia</b>. Graduate from <a href="www.udistrital.edu.co">Universidad Distrital Franciso José de Caldas</a><br>
+    Hello, I am <a href="https://sebasma24.github.io/portfolio/" target="_blank">Sebastian Martinez</a>, a <b>Software Developer</b> from <b>Bogota, Colombia</b>. Graduate from <a href="www.udistrital.edu.co" target="_blank">Universidad Distrital Franciso José de Caldas</a><br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Backend & Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
     focused on building <b>scalable, efficient and maintainable systems</b> and constantly improving development processes and architectures.
   </em> 
